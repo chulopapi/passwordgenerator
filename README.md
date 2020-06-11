@@ -28,7 +28,7 @@ The following is an example of a prompt:
 
 4.  If the user does not provide at least one prompt, the program will exit and will display the following:
 
-<img width="882" alt="Screen Shot 2020-06-10 at 9 17 38 PM" src="https://user-images.githubusercontent.com/14985358/84344889-c7789500-ab60-11ea-8f95-f2f9d4b1fe41.png">
+<img width="849" alt="Screen Shot 2020-06-10 at 9 28 49 PM" src="https://user-images.githubusercontent.com/14985358/84345165-761cd580-ab61-11ea-92ae-f992b6d113ad.png">
 
 
 5.  Once the user has selected at least one option, the password is displayed:
