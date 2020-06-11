@@ -1,8 +1,16 @@
 # passwordgenerator
 Javascript Password Generator
 
+The following is the URL for the password generator:
 
-The program generator program was designed to randomly generate a password that meets certain a strong password that provides greater security for the user.
+https://chulopapi.github.io/passwordgenerator/
+
+
+The github reposatory is as follow:
+
+https://github.com/chulopapi/passwordgenerator
+
+The program generator program was designed to randomly generate a password that meets certain a strong password that provides greater security for the user.  The passwors is written in javascript, html for main page and css for styling of the website.
 
 
 The programs follows the following criteria:
